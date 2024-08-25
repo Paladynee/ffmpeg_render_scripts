@@ -8,6 +8,6 @@ VP9 is currently experimental and not recommended.
 
 # How to use
 
-Make sure the video and the script file is in the same folder.x
+Make sure the video and the script file is in the same folder.
 
 Open the script and paste in the file name. It will prompt you to press any key to close the window when it is finished. The output will be named based on the input file.
