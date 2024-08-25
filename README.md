@@ -6,6 +6,9 @@ If you own an NVIDIA GPU, you can utilize the NVIDIA scripts to boost your rende
 
 VP9 is currently experimental and not recommended.
 
+# TODO:
+Add optional CRF, bitrate, FPS and resolution control mechanisms. Might as well turn this into a Rust program.
+
 # How to use
 
 Make sure the video and the script file is in the same folder.
